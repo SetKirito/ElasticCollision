@@ -34,7 +34,7 @@ This program simulates elastic collisions between two objects and provides an in
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or create an issue.
+If you find any issues or have suggestions for improvements, feel free to submit a pull request or create an issue.
 
 ## Acknowledgments
 
